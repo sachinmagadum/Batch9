@@ -15,3 +15,9 @@ print(c)
 c = a-b
 
 print(c)
+
+# code for smita mam
+a = 100
+b = 200
+c = a + b
+print(c)
