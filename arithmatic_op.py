@@ -16,6 +16,12 @@ c = a-b
 
 print(c)
 
+# code for smita mam
+a = 100
+b = 200
+c = a + b
+print(c)
+
 # Akshay code for prime no
 a = 23
 for i in range(2,a):
