@@ -15,3 +15,9 @@ print(c)
 c = a-b
 
 print(c)
+
+# Akshay code for prime no
+a = 23
+for i in range(2,a):
+    if a%i == 0:
+        print("not prime")
