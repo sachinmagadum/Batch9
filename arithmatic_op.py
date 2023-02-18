@@ -7,4 +7,11 @@ print(f"Addition of {a} and {b} is {c}")
 
 # code for div
 c = a/b
+
+print(c)
+
+# code for mul
+#written by Akshay
+c = a-b
+
 print(c)
